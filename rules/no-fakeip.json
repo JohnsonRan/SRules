@@ -1,0 +1,9 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": "lancache.steamcontent.com",
+      "domain_suffix": ".evo.host.aliceinit.dev"
+    }
+  ]
+}
